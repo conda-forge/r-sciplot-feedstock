@@ -1,11 +1,11 @@
-About r-sciplot
-===============
+About r-sciplot-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sciplot-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=sciplot
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sciplot-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of functions that creates graphs with error bars for data collected from one-way or higher factorial designs.
 
